@@ -12,3 +12,6 @@ Main code for the application. Run the GUI and modify it when necessary.
 Code used for interafacing with the arduino
 ### mainwindow.py
 Code generated using PyQT5 UI code generator. Contains the design of the interface.
+## requirments
+requirments.txt file contain library used in the app. 
+pip install requirements.txt 

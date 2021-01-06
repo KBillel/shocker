@@ -1,6 +1,6 @@
 import serial
 import time
-import keyboard
+# import keyboard
 
 def connect(COM):
     try:

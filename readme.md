@@ -9,6 +9,6 @@ Contain the C code that you need to flash to the Arduino memory using the Arduin
 ### shocker.py
 Main code for the application. Run the GUI and modify it when necessary.
 ### arduino.py
-Code used for interacing with the arduino
+Code used for interafacing with the arduino
 ### mainwindow.py
 Code generated using PyQT5 UI code generator. Contains the design of the interface.

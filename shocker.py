@@ -26,8 +26,7 @@ class gui:
     ser = 0
     t_start = 0
 
-
-    def __init__(self):    
+    def __init__(self):
         self.main_win = QMainWindow()
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self.main_win)
